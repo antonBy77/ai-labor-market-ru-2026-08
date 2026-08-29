@@ -1,8 +1,8 @@
 {
  "id": "136713468",
  "title": "ML Engineer / AI Agent Engineer",
- "salary": "Уровень дохода не указан",
  "employer": "ООО Интеграция Дистрибуция Проекты",
+ "salary": "Уровень дохода не указан",
  "skills": [
   "Python",
   "Machine Learning",
@@ -16,5 +16,6 @@
   "Git",
   "Docker",
   "Linux"
- ]
+ ],
+ "source": "https://hh.ru/vacancy/136713468"
 }

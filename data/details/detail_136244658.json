@@ -1,9 +1,9 @@
 {
  "id": "136244658",
  "title": "Lead AI/LLM Engineer (Руководитель направления AI)",
- "salary": "Уровень дохода не указан",
  "employer": "Софт Бизнес Системы",
  "employerUrl": "/employer/11191171",
+ "salary": "Уровень дохода не указан",
  "exp": "\"Опыт работы: 3–6 лет\"",
  "format": "\"Формат работы: удалённо\"",
  "skills": [
@@ -22,5 +22,6 @@
   "MLflow",
   "Weights & Biases",
   "LLM Ops"
- ]
+ ],
+ "source": "https://hh.ru/vacancy/136244658"
 }

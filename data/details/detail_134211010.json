@@ -1,13 +1,14 @@
 {
  "id": "134211010",
  "title": "AI-инженер",
- "salary": "Уровень дохода не указан",
  "employer": "ЛУИС+",
+ "salary": "Уровень дохода не указан",
  "skills": [
   "Python",
   "Dify",
   "N8N",
   "AI-агент",
   "RAG"
- ]
+ ],
+ "source": "https://hh.ru/vacancy/134211010"
 }
