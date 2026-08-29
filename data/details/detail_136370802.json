@@ -1,0 +1,20 @@
+{
+ "id": "136370802",
+ "title": "Инженер-разработчик (Python, Vibe Coding)",
+ "salary": "Уровень дохода не указан",
+ "employer": "Ак Барс Цифровые Технологии",
+ "employerUrl": "/employer/1741901",
+ "exp": "\"Опыт работы: 3–6 лет\"",
+ "format": "\"Формат работы: гибрид\"",
+ "skills": [
+  "Python",
+  "PostgreSQL",
+  "Docker",
+  "FastAPI",
+  "SQLAlchemy",
+  "Scrum",
+  "Git",
+  "RabbitMQ",
+  "API"
+ ]
+}

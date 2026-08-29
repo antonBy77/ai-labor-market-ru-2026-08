@@ -1,0 +1,352 @@
+[
+ {
+  "id": "136679277",
+  "title": "AI инженер",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "136702420",
+  "title": "ML-инженер (Middle)",
+  "salary": "",
+  "exp": "Опыт 1-3 года",
+  "remote": true
+ },
+ {
+  "id": "136718193",
+  "title": "AI-инженер",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "136395634",
+  "title": "ML Engineer / AI Engineer (LLM & AI Agents)",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": true
+ },
+ {
+  "id": "136483612",
+  "title": "AI Agent Engineer в GyroMind",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "136688209",
+  "title": "Разработчик AI агентов",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "135935736",
+  "title": "Python Fullstack Developer (middle+) — внутренние продукты, AI-автоматизация",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "136502039",
+  "title": "AI-разработчик / Full-stack разработчик / Prompt Engineer (офис)",
+  "salary": "130 000 ₽ за месяц, на руки",
+  "exp": "Опыт 1-3 года",
+  "remote": false
+ },
+ {
+  "id": "135944757",
+  "title": "Инженер AI-разработки (офис 5/2)",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "136085152",
+  "title": "Системный аналитик AI",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": true
+ },
+ {
+  "id": "135870849",
+  "title": "AI Automation Manager (Claude, ChatGPT) / Менеджер AI-проектов",
+  "salary": "",
+  "exp": "Опыт 1-3 года",
+  "remote": false
+ },
+ {
+  "id": "136450370",
+  "title": "Системный аналитик AI",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "136674597",
+  "title": "Программный эксперт курса «Нейросети для бизнеса»",
+  "salary": "",
+  "exp": "Опыт 1-3 года",
+  "remote": true
+ },
+ {
+  "id": "136734864",
+  "title": "Менеджер по MarTech и автоматизации роста в Алису AI",
+  "salary": "",
+  "exp": "Опыт более 6 лет",
+  "remote": false
+ },
+ {
+  "id": "134211010",
+  "title": "AI-инженер",
+  "salary": "",
+  "exp": "Опыт 1-3 года",
+  "remote": true
+ },
+ {
+  "id": "136415443",
+  "title": "AI Engineer (AI Marketing)",
+  "salary": "",
+  "exp": "Опыт более 6 лет",
+  "remote": false
+ },
+ {
+  "id": "136221398",
+  "title": "Амбассадор платформы по AI-автоматизации найма и обучения",
+  "salary": "150 000 – 450 000 ₽ за месяц, до вычета налогов",
+  "exp": "Опыт 3-6 лет",
+  "remote": true
+ },
+ {
+  "id": "136386309",
+  "title": "Инженер по автоматизации сопровождения (AI Hub Finance, направление ИИ агенты)",
+  "salary": "",
+  "exp": "Опыт 1-3 года",
+  "remote": false
+ },
+ {
+  "id": "135732676",
+  "title": "AI-инженер (Claude)",
+  "salary": "",
+  "exp": "Опыт 1-3 года",
+  "remote": false
+ },
+ {
+  "id": "136481715",
+  "title": "AI Product Manager / AI Product Manager / Владелец AI продукта",
+  "salary": "",
+  "exp": "Опыт более 6 лет",
+  "remote": false
+ },
+ {
+  "id": "135223280",
+  "title": "Ведущий AI-инженер/Python-разработчик по автоматизации бизнес-процессов",
+  "salary": "250 000 – 300 000 ₽ за месяц, на руки",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "136262644",
+  "title": "Специалист по AI-автоматизации бизнес-процессов",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "136094090",
+  "title": "Senior AI/ML Engineer / LLM Engineer",
+  "salary": "",
+  "exp": "Опыт более 6 лет",
+  "remote": false
+ },
+ {
+  "id": "136196007",
+  "title": "AI-автоматизатор/инженер n8n + вайбкодинг (куратор в онлайн курс)",
+  "salary": "60 000 – 100 000 ₽ за месяц, на руки",
+  "exp": "Опыт 3-6 лет",
+  "remote": true
+ },
+ {
+  "id": "135888125",
+  "title": "AI-интегратор (автоматизация бизнес-процессов)",
+  "salary": "",
+  "exp": "Опыт 1-3 года",
+  "remote": false
+ },
+ {
+  "id": "135011458",
+  "title": "AI Tech Lead / AI Implementation Lead (Agentic AI)",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "135917180",
+  "title": "Lead of IT & AI (Automation & Systems)",
+  "salary": "от 400 000 ₽ за месяц, на руки",
+  "exp": "Опыт 3-6 лет",
+  "remote": true
+ },
+ {
+  "id": "135835178",
+  "title": "Разработчик Fullstack B2B-портала, AI автоматизация компаний",
+  "salary": "150 000 – 250 000 ₽ за месяц, на руки",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "136555508",
+  "title": "ML-инженер",
+  "salary": "до 250 000 ₽ за месяц, до вычета налогов",
+  "exp": "Опыт 3-6 лет",
+  "remote": true
+ },
+ {
+  "id": "136649705",
+  "title": "AI Automation Architect / Специалист по AI-агентам и автоматизации маркетинга",
+  "salary": "",
+  "exp": "Опыт 1-3 года",
+  "remote": true
+ },
+ {
+  "id": "136605140",
+  "title": "AI разработчик (автоматизация и интеграция)",
+  "salary": "",
+  "exp": "Опыт 1-3 года",
+  "remote": false
+ },
+ {
+  "id": "136702741",
+  "title": "ML Engineer / LLM Engineer",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": true
+ },
+ {
+  "id": "136625734",
+  "title": "AI Automation Architect / Специалист по AI-агентам и автоматизации маркетинга",
+  "salary": "",
+  "exp": "Опыт 1-3 года",
+  "remote": true
+ },
+ {
+  "id": "136675731",
+  "title": "Аналитик AI",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": true
+ },
+ {
+  "id": "136713468",
+  "title": "ML Engineer / AI Agent Engineer",
+  "salary": "",
+  "exp": "Опыт более 6 лет",
+  "remote": true
+ },
+ {
+  "id": "136658637",
+  "title": "AI - автоматизатор (область e-com)",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": true
+ },
+ {
+  "id": "134829827",
+  "title": "Инженер ИИ-автоматизаций / AI automation engineer",
+  "salary": "",
+  "exp": "",
+  "remote": true
+ },
+ {
+  "id": "136316784",
+  "title": "Специалист по внедрению ИИ и автоматизации",
+  "salary": "200 000 – 300 000 ₽ за месяц, на руки",
+  "exp": "Опыт 1-3 года",
+  "remote": false
+ },
+ {
+  "id": "136038929",
+  "title": "AI Automation Engineer (Инженер по AI-автоматизации)",
+  "salary": "от 100 000 ₽ за месяц, на руки",
+  "exp": "Опыт 1-3 года",
+  "remote": true
+ },
+ {
+  "id": "136562493",
+  "title": "Специалист по AI и автоматизации (Ozon)",
+  "salary": "150 000 – 170 000 ₽ за месяц, на руки",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "136673199",
+  "title": "Специалист по автоматизации бизнес-процессов и AI",
+  "salary": "150 000 – 220 000 ₽ за месяц, на руки",
+  "exp": "Опыт 1-3 года",
+  "remote": false
+ },
+ {
+  "id": "136244658",
+  "title": "Lead AI/LLM Engineer (Руководитель направления AI)",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": true
+ },
+ {
+  "id": "136319824",
+  "title": "AI-разработчик автоматизаций",
+  "salary": "от 50 000 ₽ за услугу, на руки",
+  "exp": "Опыт 1-3 года",
+  "remote": true
+ },
+ {
+  "id": "136036530",
+  "title": "AI Lead",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "134226146",
+  "title": "Product Analyst (AI tools)",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": true
+ },
+ {
+  "id": "136475238",
+  "title": "AI Engineer",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "134071893",
+  "title": "AI/ML Engineer (ML-платформа)",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "136556227",
+  "title": "Бизнес-аналитик (AI / Data Science проекты)",
+  "salary": "до 160 000 ₽ за месяц, на руки",
+  "exp": "Опыт 3-6 лет",
+  "remote": true
+ },
+ {
+  "id": "136425035",
+  "title": "Spec-Driven AI Engineer",
+  "salary": "150 000 – 250 000 ₽ за месяц, до вычета налогов",
+  "exp": "Опыт 1-3 года",
+  "remote": false
+ },
+ {
+  "id": "136190928",
+  "title": "AI-интегратор (B2B, клиентам)",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": true
+ }
+]

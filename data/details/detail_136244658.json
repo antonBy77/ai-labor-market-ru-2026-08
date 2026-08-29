@@ -1,0 +1,26 @@
+{
+ "id": "136244658",
+ "title": "Lead AI/LLM Engineer (Руководитель направления AI)",
+ "salary": "Уровень дохода не указан",
+ "employer": "Софт Бизнес Системы",
+ "employerUrl": "/employer/11191171",
+ "exp": "\"Опыт работы: 3–6 лет\"",
+ "format": "\"Формат работы: удалённо\"",
+ "skills": [
+  "Python",
+  "Rust",
+  "LLM",
+  "AI/ML",
+  "RAG",
+  "Семантический поиск",
+  "Vector DB",
+  "Qdrant",
+  "Milvus",
+  "Pinecone",
+  "Fine-tuning",
+  "Prompt Engineering",
+  "MLflow",
+  "Weights & Biases",
+  "LLM Ops"
+ ]
+}
