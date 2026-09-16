@@ -1,0 +1,8 @@
+# кампания и личные данные — не публикуются
+data/step2/campaign_log/
+data/step2/targets_*
+data/step2/shortlist_step2.json
+data/step3/targets_*
+data/step3/sample_ids.json
+data/step3/details/
+__pycache__/

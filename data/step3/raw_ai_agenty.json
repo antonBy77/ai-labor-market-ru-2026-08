@@ -1,0 +1,450 @@
+[
+ {
+  "id": "136394146",
+  "title": "Менеджер по продажам обучения нейросетям (GPT/AI агенты/ПРОМТы)",
+  "salary": "200 000 – 300 000 ₽ за месяц, на руки",
+  "exp": "Опыт 1-3 года",
+  "remote": true
+ },
+ {
+  "id": "137035673",
+  "title": "Менеджер по продажам обучения нейросетям (GPT/AI агенты/ПРОМТы)",
+  "salary": "200 000 – 300 000 ₽ за месяц, на руки",
+  "exp": "Опыт 1-3 года",
+  "remote": true
+ },
+ {
+  "id": "137437860",
+  "title": "Ведущий специалист по созданию AI-агентов",
+  "salary": "",
+  "exp": "Опыт 1-3 года",
+  "remote": false
+ },
+ {
+  "id": "136417891",
+  "title": "Инженер AI-агентов",
+  "salary": "",
+  "exp": "Опыт 1-3 года",
+  "remote": true
+ },
+ {
+  "id": "136629429",
+  "title": "Технический специалист по поддержке и реализации продуктов + работа с AI-агентами",
+  "salary": "от 65 000 ₽ за месяц, на руки",
+  "exp": "Опыт 1-3 года",
+  "remote": false
+ },
+ {
+  "id": "136631294",
+  "title": "Менеджер по холодным B2B-продажам (AI-агенты)",
+  "salary": "от 100 000 ₽ за месяц, на руки",
+  "exp": "Опыт 1-3 года",
+  "remote": true
+ },
+ {
+  "id": "137301449",
+  "title": "Аналитик по проверке гипотез и внедрению AI‑агентов на проекте",
+  "salary": "",
+  "exp": "Опыт 1-3 года",
+  "remote": true
+ },
+ {
+  "id": "136483612",
+  "title": "AI Agent Engineer в GyroMind",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "136840490",
+  "title": "Младший технический продакт-менеджер (Робототехника и AI агенты для автоматизации розницы)",
+  "salary": "",
+  "exp": "Без опыта",
+  "remote": false
+ },
+ {
+  "id": "136649705",
+  "title": "AI Automation Architect / Специалист по AI-агентам и автоматизации маркетинга",
+  "salary": "",
+  "exp": "Опыт 1-3 года",
+  "remote": true
+ },
+ {
+  "id": "136713468",
+  "title": "ML Engineer / AI Agent Engineer",
+  "salary": "",
+  "exp": "Опыт более 6 лет",
+  "remote": true
+ },
+ {
+  "id": "137381407",
+  "title": "Senior Software Engineer — AI Agents & Automation",
+  "salary": "200 000 – 300 000 ₽ за месяц, на руки",
+  "exp": "Опыт 3-6 лет",
+  "remote": true
+ },
+ {
+  "id": "136466332",
+  "title": "Full-stack разработчик (TypeScript / Python, AI-агенты)",
+  "salary": "160 000 – 200 000 ₽ за месяц, на руки",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "137353659",
+  "title": "Преподаватель ИИ-курсов (GPT, LLM, AI-агенты) для корпоративного университета",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "137384024",
+  "title": "AI Agent Engineer/ Promt-инженер/ Методолог",
+  "salary": "",
+  "exp": "Опыт 1-3 года",
+  "remote": false
+ },
+ {
+  "id": "135469867",
+  "title": "Senior Data Scientist (AI- агенты)",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "137368753",
+  "title": "Senior Python Developer (AI Agent / SDLC Automation)",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "137364889",
+  "title": "AI Agent Platform Engineer (Бильбао, Испания)",
+  "salary": "",
+  "exp": "Опыт более 6 лет",
+  "remote": false
+ },
+ {
+  "id": "137358104",
+  "title": "Системный аналитик AI-агентов (Платежи и переводы ЮЛ)",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "137287354",
+  "title": "Python разработчик (AI агенты)",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "137288111",
+  "title": "Python разработчик (AI агенты)",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "135703039",
+  "title": "ML Tech Lead (ML/LLM, AI-агенты для MedTech)",
+  "salary": "",
+  "exp": "Опыт более 6 лет",
+  "remote": true
+ },
+ {
+  "id": "137054866",
+  "title": "Инженер по автоматизации и интеграциям (LLM/AI-агенты)",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "136400137",
+  "title": "Ведущий системный аналитик (корпоративная платформа AI-агентов)",
+  "salary": "",
+  "exp": "Опыт более 6 лет",
+  "remote": true
+ },
+ {
+  "id": "137353378",
+  "title": "Разработчик AI-агентов (GigaChat, Python/Java, продукт \"Икассация\"), г. Ставрополь",
+  "salary": "от 76 000 ₽ за месяц, до вычета налогов",
+  "exp": "Опыт 1-3 года",
+  "remote": false
+ },
+ {
+  "id": "136305513",
+  "title": "Ведущий разработчик AI-агентов (.NET fullstack)",
+  "salary": "",
+  "exp": "Опыт более 6 лет",
+  "remote": true
+ },
+ {
+  "id": "137338324",
+  "title": "Инженер по тестированию на Java (AI агент)",
+  "salary": "",
+  "exp": "Опыт 1-3 года",
+  "remote": true
+ },
+ {
+  "id": "137338383",
+  "title": "Системный аналитик (AI агент)",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "137338427",
+  "title": "Старший разработчик на Java (AI агент)",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": true
+ },
+ {
+  "id": "136186855",
+  "title": "Python Developer (AI-агенты )",
+  "salary": "",
+  "exp": "Опыт более 6 лет",
+  "remote": false
+ },
+ {
+  "id": "137247359",
+  "title": "Бизнес-аналитик (Бюджет Change, AI-агенты)",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "137203131",
+  "title": "Tech Lead AI-agents",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "137215115",
+  "title": "Senior Python ML-инженер (AI-Агенты)",
+  "salary": "",
+  "exp": "Опыт более 6 лет",
+  "remote": false
+ },
+ {
+  "id": "137212438",
+  "title": "Стажер ML-разработчик (LLM / AI Agents)",
+  "salary": "",
+  "exp": "Без опыта",
+  "remote": true
+ },
+ {
+  "id": "137199124",
+  "title": "Инженер по ИИ/AI Agent Engineer (LLM & Agentic Systems)",
+  "salary": "",
+  "exp": "Опыт 1-3 года",
+  "remote": false
+ },
+ {
+  "id": "137165001",
+  "title": "Стажер разработчик/аналитик AI-агентов",
+  "salary": "",
+  "exp": "Опыт 1-3 года",
+  "remote": false
+ },
+ {
+  "id": "137119566",
+  "title": "Разработчик AI-агентов",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "137095636",
+  "title": "Системный аналитик / AI Agents",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": true
+ },
+ {
+  "id": "137055318",
+  "title": "Главный системный аналитик (AI-агенты)",
+  "salary": "350 000 – 450 000 ₽ за месяц, до вычета налогов",
+  "exp": "Опыт 3-6 лет",
+  "remote": true
+ },
+ {
+  "id": "136990719",
+  "title": "Разработчик AI-агентов PRO",
+  "salary": "100 000 – 150 000 ₽ за месяц, на руки",
+  "exp": "Без опыта",
+  "remote": true
+ },
+ {
+  "id": "136960532",
+  "title": "Tech Lead/Backend developer (Java/kotlin), AI Agent",
+  "salary": "",
+  "exp": "Опыт более 6 лет",
+  "remote": false
+ },
+ {
+  "id": "136850025",
+  "title": "Системный аналитик (AI агенты)",
+  "salary": "",
+  "exp": "Опыт 1-3 года",
+  "remote": false
+ },
+ {
+  "id": "136860676",
+  "title": "Системный аналитик AI-агентов (Платежи и переводы ЮЛ)",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "136798436",
+  "title": "Senior-разработчик AI-агентов и ML-моделей (Центр корпоративных риск-решений)",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "133774077",
+  "title": "AI/AI-agent developer (Python)",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": true
+ },
+ {
+  "id": "136736415",
+  "title": "ML-инженер (AI-агенты и компьютерное зрение)",
+  "salary": "",
+  "exp": "Опыт 1-3 года",
+  "remote": false
+ },
+ {
+  "id": "136688691",
+  "title": "Python-разработчик AI-агентов",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "136705279",
+  "title": "Middle NLP Data Scientist (AI-агенты)",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "136656797",
+  "title": "ML/DL Engineer (CV / VLM / LLM, AI-агенты)",
+  "salary": "160 000 – 300 000 ₽ за месяц, на руки",
+  "exp": "Опыт 3-6 лет",
+  "remote": true
+ },
+ {
+  "id": "136689698",
+  "title": "Senior AI Agent Engineer",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "136647119",
+  "title": "Системный аналитик MLOps / AI-агенты",
+  "salary": "до 390 000 ₽ за месяц, до вычета налогов",
+  "exp": "Опыт 3-6 лет",
+  "remote": true
+ },
+ {
+  "id": "135792810",
+  "title": "Python-разработчик AI-агентов (Депозиты ЮЛ)",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "136565306",
+  "title": "Python-разработчик в команду кибербезопасности AI-агентов",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "136581999",
+  "title": "AI Agent Engineer (NLP/LLM)",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": true
+ },
+ {
+  "id": "136520468",
+  "title": "AI Agent Engineer (вайбкодинг)",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "136489503",
+  "title": "Системный аналитик (AI агенты)",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": true
+ },
+ {
+  "id": "136434212",
+  "title": "Middle ML-разработчик (AI-агенты)",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "136348861",
+  "title": "Менеджер проекта по реализации AI-агента",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "136371575",
+  "title": "AI/AI-agent developer (Недвижимость и эксплуатация)",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "136417846",
+  "title": "Middle Backend AI Engineer (AI Agents) /Python Developer (ИБ проект)",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": true
+ },
+ {
+  "id": "136330092",
+  "title": "Senior ML-инженер (LLM / AI-агенты)",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "136330975",
+  "title": "AI-agent developer",
+  "salary": "",
+  "exp": "Опыт 3-6 лет",
+  "remote": false
+ },
+ {
+  "id": "136318806",
+  "title": "Бизнес-аналитик в продукт «AI-агент по управлению оценкой финансовой эффективности проекта»",
+  "salary": "",
+  "exp": "Опыт 1-3 года",
+  "remote": false
+ },
+ {
+  "id": "136319402",
+  "title": "Бизнес-аналитик в продукт «AI-агент по управлению оценкой бюджета строительных проектов»",
+  "salary": "",
+  "exp": "Опыт 1-3 года",
+  "remote": false
+ }
+]

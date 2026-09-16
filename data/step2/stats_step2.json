@@ -1,0 +1,25 @@
+{
+ "date": "2026-09-03",
+ "queries": 15,
+ "postings": 790,
+ "unique_templates": 463,
+ "templates_by_cat": {
+  "eng": 101,
+  "new_ai": 50,
+  "manager": 21,
+  "specialist": 60,
+  "other": 38,
+  "analyst": 156,
+  "sales": 37
+ },
+ "remote_share_pct": 25,
+ "salary_medians_by_cat": {
+  "eng": 128750,
+  "new_ai": 120000,
+  "manager": 207500,
+  "specialist": 127750,
+  "other": 120000,
+  "analyst": 150000,
+  "sales": 150000
+ }
+}
